@@ -2,6 +2,12 @@
  Tools used to scrape otd.kr for otd_archive
  
  Do not use this. Even if OTD comes back online, it does not need to be scraped again and it does not need any added server load. These files are uploaded for learning purposes only.
+ 
+ End result: 
+
+ https://www.kbdarchive.org/otd_archive/album.php
+ 
+ https://www.kbdarchive.org/otd_archive/board.php
 
  
 # usage
